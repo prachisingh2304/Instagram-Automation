@@ -6,8 +6,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # Instagram Credentials
-USERNAME = "python1test"
-PASSWORD = "python12@"
+USERNAME = "username"
+PASSWORD = "pass"
 HASHTAG = "gilbil"  # Change to any hashtag
 
 # Setup Selenium WebDriver
