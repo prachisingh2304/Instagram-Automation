@@ -7,8 +7,8 @@ import time
 
 # Instagram login credentials for two accounts
 accounts = [
-    {"username": "python1test", "password": "python12@"},
-    {"username": "python2test", "password": "python@12"}
+    {"username": "username", "password": "pass"},
+    {"username": "username", "password": "pass"}
 ]
 
 # Load profile URLs from file
